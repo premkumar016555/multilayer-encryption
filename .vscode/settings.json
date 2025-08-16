@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdexcept": "cpp",
+        "cstdlib": "cpp",
+        "ctime": "cpp",
+        "map": "cpp"
+    }
+}
